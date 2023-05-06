@@ -1,0 +1,62 @@
+champ,cluster1,champ,cluster2,champ,cluster3,champ,cluster4,champ,cluster5,champ,cluster6,champ,cluster7,champ,cluster8,champ,cluster9,champ,cluster10,champ,cluster11,champ,cluster12,champ,cluster13,champ,cluster14,champ,cluster15,champ,cluster16,champ,cluster17
+Ekko,3447,Wukong,4612,Miss Fortune,5981,Lee Sin,5374,Vex,5455,Ekko,5381,LeBlanc,5281,Warwick,3570,Riven,6445,Jhin,7590,Annie,26328,Lee Sin,6367,Fiora,3966,Yasuo,9672,Annie,1961,Samira,6404,Shen,3811
+Neeko,2905,Shen,4439,Kai'Sa,5895,Lulu,4342,Alistar,5275,Leona,5166,Blitzcrank,4649,Blitzcrank,3562,Jinx,6397,Zac,6967,Twisted Fate,25810,Malphite,6353,Nilah,3927,Renekton,9655,Gnar,1906,Ultimate Ezreal,5268,Sivir,3474
+Nilah,2633,Draven,4396,Ezreal,5740,Sona,4265,Zac,5138,Alistar,4952,Warwick,4588,Riven,3092,Miss Fortune,6376,Vex,6680,Alistar,25406,Gangplank,6157,Yasuo,3811,Warwick,9595,Lulu,1418,Garen,4679,Twisted Fate,3236
+Syndra,2150,Garen,3795,Lucian,4858,Pantheon,4264,Jhin,4997,Fiddlesticks,4712,Camille,4207,Vi,3086,Ekko,5498,Pyke,6635,Fiora,23283,Alistar,2313,Vayne,3686,Ashe,9318,Ekko,1410,Leona,3503,Pantheon,2933
+Alistar,2126,Jax,3631,Camille,2707,Viego,3752,Pyke,4917,Garen,4671,Shen,3533,Renekton,2690,Nasus,5179,Viego,6330,Viego,22624,Vi,2071,Twisted Fate,3537,Mordekaiser,8067,Alistar,1382,Sivir,3237,Ultimate Ezreal,2866
+Rell,1901,Pyke,3554,Blitzcrank,2658,Malphite,3210,Malphite,4702,Urgot,4098,Pyke,3445,Lee Sin,2548,Vayne,4883,Alistar,5605,Neeko,21667,Ezreal,1889,Gangplank,3142,LeBlanc,6932,Nunu & Willump,1201,Fiddlesticks,3233,Lucian,2325
+Kai'Sa,1834,LeBlanc,2622,Sylas,2630,Gangplank,3125,Nunu & Willump,3293,Aurelion Sol,3923,Jhin,1798,Jax,2453,Alistar,3325,Leona,4994,Ekko,19843,Draven,1714,Kayle,2058,Shen,5932,Poppy,961,Wukong,3168,Garen,2272
+Annie,1756,Leona,2033,Ekko,2380,Alistar,2909,Aatrox,3082,Aatrox,3000,Zac,1563,LeBlanc,1005,Sylas,3082,Camille,3840,Sona,17771,Wukong,1642,Annie,1770,Twisted Fate,4144,Sona,859,Ekko,2857,Fiddlesticks,1503
+Lux,1611,Riven,1867,Alistar,1939,Syndra,2041,Nasus,2306,Wukong,2897,Vex,1528,Ashe,939,Kai'Sa,2124,Garen,2712,Janna,12818,Jax,1509,Alistar,808,Blitzcrank,3181,Jinx,431,Alistar,2610,Ezreal,1490
+Twisted Fate,1584,Rell,1043,Leona,1874,Annie,1155,Ekko,1318,Janna,2774,Riven,1031,Yasuo,933,Fiddlesticks,1393,Fiddlesticks,2157,Fiddlesticks,4421,Sona,1406,Fiddlesticks,527,Fiddlesticks,2651,Viego,425,Jax,2444,Samira,1335
+Miss Fortune,1397,Fiddlesticks,832,Fiddlesticks,1535,Ekko,1065,Leona,1218,Bel'Veth,2570,Fiddlesticks,955,Mordekaiser,747,Gnar,1194,Ekko,2088,Syndra,4196,Vex,1351,Lee Sin,380,Pyke,2454,Twisted Fate,365,Urgot,2057,Urgot,711
+Janna,1178,Blitzcrank,478,Garen,1457,Vi,872,Viego,1146,Jax,2101,Leona,780,Shen,546,Leona,1101,Wukong,2013,Leona,3949,Pyke,1159,Malphite,379,Ultimate Ezreal,1708,Shen,334,Shen,1837,Janna,615
+Sona,804,Warwick,449,Vi,1085,LeBlanc,687,Fiddlesticks,777,Vi,2028,Viego,725,Fiddlesticks,521,Vi,887,Jax,1164,LeBlanc,2818,Garen,949,Ekko,378,Urgot,1519,Fiddlesticks,333,Vi,1804,Leona,603
+Viego,642,Poppy,448,Viego,1034,Fiddlesticks,605,Lee Sin,709,Twisted Fate,1858,Sona,657,Camille,483,Garen,752,LeBlanc,1126,Nunu & Willump,1439,Zac,949,Urgot,365,Camille,890,Janna,313,Ezreal,1392,Aatrox,602
+Fiddlesticks,449,Urgot,338,Riven,956,Janna,603,Gangplank,492,Miss Fortune,1596,Renekton,627,Leona,455,Urgot,613,Sylas,1009,Lux,1288,Jhin,925,Viego,301,Vi,710,LeBlanc,313,Ashe,1133,Ekko,326
+Leona,427,Ekko,329,Wukong,880,Blitzcrank,518,Morgana,478,Morgana,1566,Urgot,609,Urgot,443,Janna,599,Aatrox,899,Urgot,1239,Leona,845,Bel'Veth,290,Riven,631,Neeko,254,Aatrox,1081,Riven,325
+Shen,400,Miss Fortune,322,Aatrox,752,Twisted Fate,457,Aurelion Sol,446,Mordekaiser,1499,Vi,582,Aurelion Sol,346,Ezreal,397,Lucian,885,Vi,973,Yasuo,727,Janna,287,Janna,557,Syndra,248,Janna,1067,Alistar,272
+Fiora,388,Samira,308,Jax,674,Nunu & Willump,429,Urgot,406,Nunu & Willump,1414,Alistar,573,Aatrox,289,Nunu & Willump,284,Urgot,871,Nilah,727,Miss Fortune,598,Neeko,236,Sivir,502,Leona,245,Aurelion Sol,922,Mordekaiser,252
+Riven,308,Janna,270,Shen,634,Leona,411,Janna,322,Samira,1393,Lee Sin,573,Garen,251,Nilah,274,Shen,660,Aatrox,635,Ashe,545,Syndra,195,Leona,463,Pyke,215,Nunu & Willump,668,Miss Fortune,246
+Ezreal,257,Alistar,268,Ultimate Ezreal,583,Morgana,369,Vi,243,Viego,1254,Twisted Fate,561,Ekko,240,Aatrox,267,Janna,510,Aurelion Sol,635,Nasus,545,Leona,162,Lee Sin,404,Fiora,188,Mordekaiser,623,Lee Sin,214
+Vi,228,Aurelion Sol,228,Urgot,581,Aurelion Sol,283,Shen,131,Ultimate Ezreal,1213,Janna,521,Janna,238,Aurelion Sol,236,Vi,494,Mordekaiser,625,Renekton,536,Warwick,143,Aatrox,261,Garen,170,Blitzcrank,553,Jax,168
+Jinx,191,Mordekaiser,214,Janna,532,Urgot,262,Syndra,126,Syndra,1139,Jax,490,Bel'Veth,223,Twisted Fate,217,Aurelion Sol,419,Garen,480,Fiddlesticks,498,Aatrox,130,Garen,226,Lee Sin,138,Renekton,542,Viego,165
+Garen,189,Jhin,196,Rell,390,Fiora,262,Rammus,125,Jhin,1063,Mordekaiser,465,Alistar,221,Shen,186,Nunu & Willump,408,Lee Sin,480,Ultimate Ezreal,480,Aurelion Sol,126,Ekko,221,Aurelion Sol,136,Warwick,523,Aurelion Sol,148
+Urgot,156,Zac,179,Morgana,344,Aatrox,244,Garen,120,Annie,1019,Annie,379,Sivir,191,Lucian,168,Annie,399,Jhin,391,Kai'Sa,463,Mordekaiser,122,Aurelion Sol,201,Morgana,136,Riven,511,Wukong,146
+LeBlanc,154,Vex,168,Jinx,344,Nasus,222,Mordekaiser,117,Rammus,1009,Ekko,350,Pyke,180,Viego,119,Warwick,311,Miss Fortune,360,Fiora,456,Ultimate Ezreal,98,Alistar,179,Urgot,132,Draven,499,Ashe,145
+Nunu & Willump,145,Vi,166,Lee Sin,308,Neeko,210,Annie,112,Draven,748,Bel'Veth,338,Twisted Fate,177,Syndra,104,Mordekaiser,307,Blitzcrank,286,Ekko,375,Nunu & Willump,78,Jax,176,Pantheon,118,Bel'Veth,493,Syndra,137
+Aurelion Sol,133,Camille,143,Warwick,308,Poppy,169,Camille,109,Shen,689,Yasuo,338,Morgana,153,Fiora,100,Fiora,307,Morgana,236,Warwick,349,Shen,69,Samira,167,Wukong,110,Miss Fortune,484,Kai'Sa,126
+Aatrox,120,Rammus,124,Rammus,304,Vex,165,Bel'Veth,91,Ezreal,666,Sylas,295,Ultimate Ezreal,151,Morgana,90,Morgana,307,Shen,227,Nunu & Willump,289,Morgana,60,Bel'Veth,127,Rell,106,Yasuo,484,Fiora,99
+Lucian,85,Bel'Veth,98,Jhin,274,Warwick,112,LeBlanc,70,Neeko,636,Garen,293,Sona,134,Malphite,69,Blitzcrank,300,Warwick,220,Shen,263,Garen,54,Syndra,120,Aatrox,102,Twisted Fate,298,Annie,87
+Mordekaiser,56,Morgana,97,Nilah,248,Mordekaiser,88,Fiora,65,Fiora,577,Aurelion Sol,282,Wukong,120,Rell,65,Syndra,270,Pyke,219,Urgot,259,Vi,54,Morgana,119,Lux,98,Morgana,248,Nilah,87
+Gnar,52,Twisted Fate,96,Pantheon,234,Gnar,78,Sona,56,Sona,577,Aatrox,267,Samira,116,Jax,64,Draven,234,Samira,211,Kayle,226,Renekton,51,Nunu & Willump,107,Riven,93,Syndra,231,Bel'Veth,86
+Morgana,48,Aatrox,96,Annie,201,Shen,74,Jax,50,Kai'Sa,488,Lucian,228,Syndra,100,Lee Sin,58,Malphite,178,Ultimate Ezreal,196,Pantheon,217,Miss Fortune,47,Fiora,86,Miss Fortune,81,Viego,215,Nunu & Willump,85
+Lee Sin,42,Kai'Sa,90,Aurelion Sol,194,Jhin,63,Wukong,50,Warwick,441,Draven,226,Miss Fortune,87,Mordekaiser,56,Twisted Fate,168,Vayne,179,Twisted Fate,212,LeBlanc,43,Nilah,71,Vi,67,Lee Sin,172,Morgana,83
+Wukong,39,Lee Sin,73,Syndra,143,Ezreal,62,Twisted Fate,49,Pyke,367,Wukong,218,Draven,71,Warwick,46,Bel'Veth,156,Gnar,152,Lucian,212,Samira,41,Jhin,65,Malphite,67,Sona,166,Rell,81
+Rammus,32,Sivir,69,Fiora,143,Lucian,57,Ultimate Ezreal,34,Riven,353,Ashe,211,Ezreal,60,Gangplank,39,Miss Fortune,132,Ezreal,151,Lulu,208,Riven,40,Gangplank,62,Jax,55,Pantheon,131,Sona,78
+Lulu,32,Ultimate Ezreal,69,Nunu & Willump,137,Miss Fortune,53,Miss Fortune,33,LeBlanc,280,Neeko,152,Nunu & Willump,59,Ultimate Ezreal,38,Ezreal,80,Yasuo,142,Viego,191,Rammus,39,Zac,52,Mordekaiser,46,Rammus,124,Vi,75
+Vayne,31,Nunu & Willump,64,Malphite,120,Camille,50,Warwick,31,Blitzcrank,252,Syndra,149,Jhin,54,Wukong,38,Riven,79,Lucian,137,Blitzcrank,187,Sona,35,Annie,48,Gangplank,46,Jhin,99,Warwick,63
+Jax,29,Viego,57,Sona,119,Riven,45,Riven,27,Sivir,244,Morgana,147,Viego,31,Samira,32,Ultimate Ezreal,77,Camille,135,Janna,176,Kai'Sa,29,Vayne,43,Vex,45,Annie,98,Camille,62
+Ultimate Ezreal,27,Syndra,56,Draven,101,Pyke,37,Lucian,25,Vex,208,Ultimate Ezreal,135,Kai'Sa,31,Bel'Veth,32,Lee Sin,75,Kai'Sa,130,Annie,174,Blitzcrank,27,Malphite,41,Kai'Sa,43,Camille,95,Jhin,61
+Poppy,27,Ezreal,52,LeBlanc,95,Nilah,36,Sylas,23,Lee Sin,176,Nunu & Willump,127,Vex,24,Annie,31,Nasus,70,Lulu,114,Riven,173,Ashe,26,Rammus,39,Ultimate Ezreal,33,Fiora,89,Neeko,54
+Blitzcrank,25,Malphite,47,Nasus,89,Lux,32,Blitzcrank,23,Nilah,162,Fiora,76,Rammus,23,Jhin,28,Rammus,66,Wukong,109,Morgana,172,Pyke,25,Viego,30,Bel'Veth,33,Lucian,62,Sylas,53
+Warwick,15,Renekton,36,Gangplank,84,Ultimate Ezreal,31,Draven,17,Camille,154,Samira,71,Rell,20,Rammus,28,Sona,61,Jax,99,Mordekaiser,152,Ezreal,23,Lucian,27,Jhin,33,LeBlanc,62,Gangplank,52
+Vex,14,Annie,29,Mordekaiser,83,Garen,29,Pantheon,15,Lucian,144,Miss Fortune,49,Gangplank,20,Blitzcrank,22,Pantheon,43,Pantheon,96,Vayne,143,Jhin,23,Ezreal,27,Nilah,31,Pyke,61,Rammus,52
+Samira,11,Yasuo,26,Samira,73,Rammus,28,Samira,14,Jinx,144,Lux,45,Zac,19,Draven,22,Kai'Sa,43,Jinx,92,LeBlanc,142,Jinx,16,Miss Fortune,26,Blitzcrank,30,Rell,60,Blitzcrank,47
+Malphite,10,Jinx,20,Twisted Fate,71,Rell,25,Neeko,13,Yasuo,129,Ezreal,41,Kayle,19,Camille,21,Samira,42,Bel'Veth,90,Samira,120,Wukong,14,Wukong,24,Ezreal,29,Kayle,59,Malphite,44
+Pantheon,9,Fiora,17,Gnar,56,Kai'Sa,23,Lulu,12,Zac,126,Rammus,40,Lucian,16,Vex,20,Jinx,25,Riven,86,Aatrox,117,Rell,12,Vex,24,Warwick,29,Gangplank,36,LeBlanc,42
+Nasus,6,Sona,16,Renekton,50,Sylas,23,Gnar,12,Renekton,123,Pantheon,35,Jinx,15,LeBlanc,17,Renekton,21,Poppy,85,Nilah,117,Lucian,11,Sona,17,Nasus,23,Malphite,33,Pyke,42
+Bel'Veth,5,Vayne,15,Vayne,37,Bel'Veth,20,Nilah,9,Gnar,96,Nilah,33,Vayne,14,Yasuo,15,Nilah,18,Kayle,84,Aurelion Sol,102,Jax,11,Pantheon,16,Draven,20,Vex,32,Yasuo,33
+Gangplank,5,Ashe,14,Sivir,35,Wukong,18,Jinx,9,Nasus,90,Rell,33,Nilah,13,Poppy,15,Sivir,17,Nasus,80,Sivir,76,Draven,11,Kayle,16,Vayne,20,Nilah,28,Renekton,31
+Pyke,5,Neeko,14,Pyke,33,Zac,18,Kai'Sa,8,Vayne,87,Malphite,31,Neeko,13,Pyke,11,Gangplank,16,Rell,79,Jinx,73,Nasus,10,Neeko,15,Zac,19,Zac,25,Poppy,28
+Yasuo,5,Lucian,13,Bel'Veth,28,Jax,14,Ezreal,6,Rell,76,Lulu,28,Malphite,13,Neeko,10,Gnar,15,Vex,78,Sylas,62,Sivir,9,Rell,12,Camille,18,Gnar,23,Lulu,17
+Draven,5,Nilah,13,Poppy,20,Renekton,13,Sivir,5,Ashe,73,Sivir,27,Annie,11,Sona,6,Rell,14,Renekton,72,Syndra,51,Camille,9,Draven,11,Rammus,14,Kai'Sa,18,Zac,15
+Kayle,5,Pantheon,12,Kayle,20,Kayle,10,Ashe,4,Pantheon,66,Poppy,23,Fiora,7,Zac,6,Neeko,10,Draven,71,Poppy,36,Lux,9,Nasus,11,Sivir,11,Poppy,18,Draven,15
+Camille,4,Gangplank,10,Neeko,17,Samira,8,Rell,4,Kayle,64,Kai'Sa,17,Sylas,6,Kayle,5,Yasuo,8,Gangplank,70,Rammus,35,Pantheon,6,Poppy,7,Samira,11,Neeko,15,Vayne,13
+Jhin,4,Nasus,10,Zac,16,Yasuo,7,Renekton,4,Sylas,57,Gangplank,17,Nasus,4,Sivir,3,Ashe,6,Malphite,64,Camille,27,Vex,6,Jinx,7,Lucian,9,Jinx,14,Vex,13
+Sylas,2,Kayle,8,Vex,13,Sivir,6,Vayne,4,Gangplank,55,Vayne,16,Gnar,3,Renekton,3,Lulu,6,Rammus,59,Gnar,26,Gnar,6,Lux,5,Yasuo,9,Nasus,10,Nasus,6
+Zac,2,Sylas,7,Lulu,7,Jinx,6,Kayle,4,Malphite,55,Gnar,15,Pantheon,2,Ashe,2,Vayne,6,Sylas,49,Rell,22,Sylas,5,Sylas,4,Ashe,6,Sylas,7,Kayle,6
+Sivir,1,Lulu,6,Lux,6,Draven,5,Lux,3,Poppy,48,Nasus,14,Poppy,2,Lulu,2,Poppy,4,Sivir,42,Bel'Veth,14,Poppy,5,Kai'Sa,3,Renekton,4,Vayne,7,Gnar,3
+Renekton,1,Lux,6,Ashe,0,Vayne,5,Yasuo,2,Lulu,39,Kayle,10,Lux,2,Lux,2,Kayle,3,Ashe,42,Lux,14,Lulu,4,Gnar,2,Sylas,3,Lulu,4,Jinx,2
+Ashe,0,Gnar,5,Yasuo,0,Ashe,4,Poppy,2,Lux,26,Jinx,8,Lulu,1,Pantheon,0,Lux,0,Zac,17,Neeko,12,Zac,2,Lulu,0,Kayle,0,Lux,0,Lux,1
+,Star Guardian Neeko,,Hacker Draven,,Quickdraw Lucian,,Supers Heart ,,RiftWalker Mascot,,Aegis Threat,,Hacker Warwick,,Brawler Warwick,,Anima Squad,,Renegade Jhin,,Ox Force Twisted Fate,,Supers Underground,,Duelist,,LaserCorps Warwick,,Gadgeteen Gnar,,Mecha:PRIME Samira,,InfiniTeam
